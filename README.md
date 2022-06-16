@@ -2,7 +2,7 @@ Happy Birthday sanjana
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: http://manish-sanj.github.io/birthday2022/
+URL: https://manish-sanj.github.io/birthday2022/
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
